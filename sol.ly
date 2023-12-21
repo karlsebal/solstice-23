@@ -73,6 +73,8 @@ we take our world to task?
   \line {will it be there for us to find}
   \line {within if we just feel?}
   }
+  
+  \hspace #5
 
   \column {
   \line {Of course it’s there! We call it love!}

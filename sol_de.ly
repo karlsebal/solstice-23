@@ -72,6 +72,8 @@ zur Herr-schaft uns’-rer Welt?
     \line {so blieb’ doch in uns eine Spur}
     \line {und ließe sich erspür’n?}
   }
+  
+  \hspace #5
 
   \column {
     \line {Natürlich! Liebe nennen wir}
