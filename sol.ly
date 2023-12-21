@@ -43,12 +43,12 @@ a2 r4 % 24
 \addlyrics
 {
     What joy, to be of human birth!
-We've made this world our home
+We’ve made this world our home
 more deep-ly than all life on Earth
 that we al-low to roam.
 Our hu-man rights and peace al-low
 us time to sing this tune
-and gave us where we're sing-ing now
+and gave us where we’re sing-ing now
 and foot-prints on the Moon!
 And there-fo-re on-ly we a-mong
 all life on Earth should ask:
@@ -68,26 +68,24 @@ we take our world to task?
   \line {from families and tribes}
   \line {through cities, nation states and creeds}
   \line {to global human rights!}
-  \line {If that's the nature of our kind,}
+  \line {If that’s the nature of our kind,}
   \line {if such a drive is real,}
   \line {will it be there for us to find}
   \line {within if we just feel?}
   }
 
   \column {
-  \line {Of course it's there! We call it love!}
+  \line {Of course it’s there! We call it love!}
   \line {Is is the human urge}
-  \line {to work with those we're allies of,}
-  \line {that's let all this emerge.}
+  \line {to work with those we’re allies of,}
+  \line {that’s let all this emerge.}
   \line {The love that guides humanity}
   \line {is not place to stay}
-  \line {and there's no way to make it be.}
+  \line {and there’s no way to make it be.}
   \line {Love is itself the way!}
   \line {The love that guides humanity}
   \line {is just an instinct, yet}
   \line {it led to all we now here see.}
   \line {Where else will we be led?}
+  }
 }
-
-}
-
