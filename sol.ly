@@ -1,4 +1,12 @@
 \version "2.22.1"
+
+\header {
+  title = "What joy, to be of Human Birth"
+  composer = "Martin Böttger"
+  poet = "Daniel Böttger"
+  copyright = "CC0"
+}
+
 <<
 \relative
 {
