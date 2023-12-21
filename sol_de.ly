@@ -70,7 +70,7 @@ zur Herr-schaft uns’-rer Welt?
     \line {Wär’ das die menschliche Natur}
     \line {und würd’ uns triebhaft führ’n,}
     \line {so blieb’ doch in uns eine Spur}
-    \line {und ließe sich erspür’n}
+    \line {und ließe sich erspür’n?}
   }
 
   \column {
