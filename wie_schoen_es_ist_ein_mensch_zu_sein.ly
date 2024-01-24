@@ -81,7 +81,7 @@ zur Herr-schaft uns’-rer Welt?
     \line {verbündet zu kooperier’n,}
     \line {durch den all dies gelang.}
     \line {Die Liebe, die uns alle führt,}
-    \line {hat weder Ort noch Staat,}
+    \line {i,}
     \line {und keinen Pfad gibt es zu ihr.}
     \line {Die Liebe ist der Pfad!}
     \line {Die Liebe die die Menschheit spürt}
